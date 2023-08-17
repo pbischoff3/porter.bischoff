@@ -1,0 +1,10 @@
+---
+title: "R Projects"
+---
+Following the links under the associated tabs, see different R projects I have been involved in, either in classes or on my own.
+
+<center>
+
+![](r example.PNG)
+
+</center>
